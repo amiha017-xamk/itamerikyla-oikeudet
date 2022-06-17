@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "./static/js/main.f79d2bd6.js",
+    "static/media/itameri.jpg": "./static/media/itameri.7a2d91bb1b510629012d.jpg",
+    "index.html": "./index.html",
+    "main.f79d2bd6.js.map": "./static/js/main.f79d2bd6.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f79d2bd6.js"
+  ]
+}
